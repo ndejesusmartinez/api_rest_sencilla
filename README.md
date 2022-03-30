@@ -1,2 +1,2 @@
 # node_mysql
-Basic API Node, express &amp; Mysql
+Api básica en node con mysql
